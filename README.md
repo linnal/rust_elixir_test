@@ -1,6 +1,6 @@
 # Rustelixir
 
-###NIFs - Native Implemented Functions
+### NIFs - Native Implemented Functions
 
 NIFs is s a feature available in Erlang that allows to call code implemented in C/C++/Rust from Elixir, the native code is compiled into a shared library.
 
